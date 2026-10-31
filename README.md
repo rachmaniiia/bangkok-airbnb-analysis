@@ -1,6 +1,6 @@
 # Bangkok Airbnb Listings Analysis
 
-End-to-end analysis of 31,067 Airbnb listings in Bangkok: cleaning and EDA in Python, business questions answered in SQL, and a Power BI dashboard.
+End-to-end analysis of 31,069 Airbnb listings in Bangkok: cleaning and EDA in Python, business questions answered in SQL, and a Power BI dashboard.
 
 ![Dashboard overview](dashboard/dashboard_page1.png)
 
@@ -12,8 +12,8 @@ End-to-end analysis of 31,067 Airbnb listings in Bangkok: cleaning and EDA in Py
 
 ## Data
 
-- **Source:** [Inside Airbnb](https://insideairbnb.com/get-the-data/), Bangkok `listings.csv` (summary file), snapshot dated **[23/09/2026]**.
-- **Size:** 31,067 listings, 7,934 hosts, 50 neighbourhoods.
+- **Source:** [Inside Airbnb](https://insideairbnb.com/get-the-data/), Bangkok `listings.csv` (summary file), snapshot dated 23/09/2026.
+- **Size:** 31,069 listings, 7,934 hosts, 50 neighbourhoods.
 - **Prices** are daily prices in local currency (THB). Data by Inside Airbnb, licensed under CC BY 4.0.
 
 ## Tools and workflow
